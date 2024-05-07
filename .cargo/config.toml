@@ -1,0 +1,3 @@
+[env]
+DATABASE_URL = "postgresql://admin:1234ABcd@localhost/GNI00"
+RUST_BACKTRACE = "1"
